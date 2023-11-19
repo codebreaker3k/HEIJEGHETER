@@ -13,6 +13,7 @@ body {
     padding-left: 400px;
     padding-block-start: 6px;
     text-wrap:overflow;
+
     
   }
   p {
@@ -35,7 +36,7 @@ div {
  color:#e9c7c9e1;
  position: absolute;
  bottom: 280px;
-right: 50%; 
+right: 40%; 
 }
 
 /*
