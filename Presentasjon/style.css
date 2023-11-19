@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(6, 4, 22);
+  }
+  h1 {
+    color:#e9c7c9e1;
+    text-align:center;
+    font-size:large
+  }
+  h2{
+    height: 10px;
+    color:#e9c7c9e1;
+    font-size:medium
+  }
+  p {
+    text-align:center;
+    text-wrap:wrap;
+    color: #9d94a5;
+ }
+ ul{
+    color: #9d94a5;
+ }
+
